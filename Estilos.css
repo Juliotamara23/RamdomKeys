@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .item {
+    flex: 1;
+
+  }
+
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+body{
+    text-align: center;
+}
